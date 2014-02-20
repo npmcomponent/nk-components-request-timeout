@@ -1,7 +1,7 @@
 'use strict';
 
-var raf = require('raf');
-var now = require('time-now');
+var raf = require('component-raf');
+var now = require('nk-components-time-now');
 
 
 exports = module.exports = timeout;

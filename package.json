@@ -1,0 +1,15 @@
+{
+  "name": "nk-components-request-timeout",
+  "description": "Like setTimeout() but with requestAnimationFrame()",
+  "version": "0.0.1",
+  "keywords": [
+    "requestAnimationFrame",
+    "setTimeout"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-raf": "git://github.com/npmcomponent/component-raf.git",
+    "nk-components-time-now": "git://github.com/npmcomponent/nk-components-time-now.git"
+  },
+  "license": "MIT"
+}
